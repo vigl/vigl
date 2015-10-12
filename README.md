@@ -3,6 +3,7 @@
 vigl is a computer software all about vision, imaging, graphics and learning.
 
  #include "vigl/vigl.hpp"
+ 
  using namespace vigl;
 
 
